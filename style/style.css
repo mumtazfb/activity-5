@@ -1,0 +1,203 @@
+* {
+    
+}
+
+body {
+    background-color: black;
+    color: #fff;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.nav-icon {
+    margin-left: 50%;
+}
+
+.profile-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding: 0 25%;
+}
+
+.name {
+    text-align: center;
+    color: rgb(241, 194, 194);
+}
+
+.main-content{
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-icons {
+    margin: 30px 0;
+}
+
+.social-icons .twitter {
+    padding: 0 15px;
+}
+
+.about-me {
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.about-title, .about-content {
+    width: 50%;
+}
+
+.about-title h2 {
+    color: rgb(241, 194, 194);
+}
+
+.about-content h3{
+    color: rgb(241, 194, 194);
+}
+
+.chat-now {
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.line-margin{
+    margin: 7% 0;
+}
+
+.one {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.design-par {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.arrow-down {
+    width: 30px;
+}
+
+.text-center{
+    color: rgb(241, 194, 194);
+}
+
+.portfolio {
+    margin-top: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
+.port-img {
+    display: flex;
+    justify-content: space-between;
+    gap: 2%;
+}
+
+.port-img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.port-img:nth-child(2) {
+    margin-top: 3%;
+}
+
+.learn-btn {
+    background: none;
+    border: 3px solid rgb(241, 194, 194);
+    color: rgb(241, 194, 194);
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    height: 70px;
+}
+
+.bring {
+    display: flex;
+    gap: 3%;
+    margin-top: 20%;
+}
+
+.bring img {
+    width: 200px;
+    height: 200px;
+}
+
+.bring-p-1 {
+    color: rgb(241, 194, 194);
+    font-size: 20px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25%;
+    text-align: center;
+}
+
+.phone {
+    color: rgb(241, 194, 194);
+}
+
+.security {
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(241, 194, 194);
+}
+
+.clarke {
+    width: 200px;
+    height: 200px;
+    border: none;
+    border-radius: 50%;
+    margin-left: 35%;
+}
+
+.location-line {
+    width: 25%;
+    height: 10px;
+    background-color: rgb(241, 194, 194);
+    border: none;
+}
+
+.location {
+    font-size: 25px;
+    color: rgb(241, 194, 194);
+}
+
+.img-div {
+    margin-top: -20px;
+    display: flex;
+    gap: 2%;
+    margin-left: 35%;
+}
+
+.phone-number {
+    font-size: 20px;
+}
+
+footer div{
+    background-color: grey;
+    text-align: center;
+    height: 150px;
+    padding: 20px;
+}
+
+.footer-p-2 {
+    margin-top: 11%;
+}
+
+
